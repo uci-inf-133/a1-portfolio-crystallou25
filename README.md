@@ -13,23 +13,26 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 */10
 - 1/1 Readme
 - 2/2 Basic HTML content
-- */1 Basic CSS styling
-- */1 Advanced feature
-- */2 Responsive layout
-- */1 Passes validation checks
-- */2 Embraces spirit of the assignment
+- 1/1 Basic CSS styling
+- 1/1 Advanced feature
+- 2/2 Responsive layout
+- 1/1 Passes validation checks
+- 2/2 Embraces spirit of the assignment
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
+Navigation bar, margins, centered. 
 
 
 
 (b) CSS features
+Text color, background color 
 
 
 
 (c) Advanced features
+Video feature added to the project section. 
 
 
 
@@ -39,16 +42,19 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 4. How long, in hours, did it take you to complete this assignment?
+   3 hours. 
 
 
 
-5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
+6. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
+   w3schools.com
 
 
 
-6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
+8. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
+   I consulted two of my classmates regarding understanding where I should start to learn how to code in HTML since it is my first time. They instructed me to try out Codecademy and look at w3Schools as well. 
 
 
 
-7. Is there anything special we need to know in order to run your code?
+10. Is there anything special we need to know in order to run your code? No. 
 
