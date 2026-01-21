@@ -22,12 +22,11 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
-Navigation bar, margins, centered. 
-
+Navigation bar, margins, image with alt description, Appropriate headings and paragraph text,  HTML tags (<em>)
 
 
 (b) CSS features
-Text color, background color 
+Modifying padding and margins to indent content and enhance readability, Modifying link, text color, or other colors to be visually appealing, added custom font from google fonts. 
 
 
 
@@ -38,16 +37,17 @@ Video feature added to the project section.
 
 
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
+I did ignore a few of the warnings that were presented by the accessibility checker. A few of the errors pointed out "Check 178: Alt text does not convey the same information as the image." This warning didn't seem like an accessibility concern since it just refers to the alt text that describes the image on the website. Another warning was to "Check 8: img element may require a long description," and this wasn't an accessibility concern since it just states to add a longer description to the image I used. 
 
 
 
-4. How long, in hours, did it take you to complete this assignment?
-   3 hours. 
+5. How long, in hours, did it take you to complete this assignment?
+   It took me 3 hours to complete this assignment. 
 
 
 
 6. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
-   w3schools.com
+   I mainly consulted w3schools.com (https://www.w3schools.com/html/html_styles.asp) and a few YouTube tutorials (https://www.youtube.com/watch?v=salY_Sm6mv4) so I could learn the basics of HTML. 
 
 
 
